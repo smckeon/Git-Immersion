@@ -1,1 +1,3 @@
-# "Hello, World"
+# Using ARGV
+
+puts "Hello, #{ARGV.first}!"
